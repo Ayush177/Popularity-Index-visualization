@@ -1,6 +1,6 @@
-I used the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to rank the images.
+[Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) is used to rank the images.
 
-images.sql is the sql dump of the "images" table that the php code needs. The scripts folder has some php scripts I used to populate the table with links to images.
+images.sql is the sql dump of the "images" table that the php code needs. The scripts folder has some php scripts that is used to populate the table with links to images.
 
 ### Steps to deploy the website
 1. Install Apache, MySQL and PHP.
